@@ -1,0 +1,51 @@
+# Ignore system and user files
+*.DAT
+*.LOG*
+*.ini
+*.regtrans-ms
+*.blf
+
+# Ignore directories
+Application Data/
+Cookies/
+Documents/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore other common user directories
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+iCloudDrive/
+iCloudPhotos/
+
+# Ignore configuration and IDE-specific files
+.vscode/
+.jdks/
+.bash_history
+.gitconfig
+.lesshst
+
+# Optional: Ignore all files in the current directory except explicitly added ones
+/*
+!.gitignore
+
+/path/to/excluded/directory/
+!/path/to/excluded/directory/MultiplesCalculator.java
+
+*.java
+!MultiplesCalculator.java
+
