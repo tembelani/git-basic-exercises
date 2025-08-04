@@ -1,0 +1,314 @@
+    1  mkdir git-basic-exercises
+    2  cd git-basic-exercises
+    3  ls -a
+    4  git init
+    5  ls -a
+    6  git status
+    7  touch README.md
+    8  ls -a
+    9  ls -a git status
+   10  git status
+   11  git log
+   12  git add README.md
+   13  git status
+   14  git restore --staged README.md
+   15  git status
+   16  git restore --staged README.md
+   17  git status
+   18  git add README.md
+   19  git commit -m "Initial commit"
+   20  nano README.md
+   21  y
+   22  cat README.md
+   23  git status
+   24  git commit -m "second commit"
+   25  git status
+   26  git log
+   27  clear
+   28  mkdir git-basic-exercises
+   29  cd git-new-directory
+   30  ls -a
+   31  git init
+   32  ls -a
+   33  git status
+   34  touch README.md
+   35  ls -a
+   36  git status
+   37  git log
+   38  git add README.md
+   39  git status
+   40  git restore --staged README.md
+   41  git status
+   42  git add README.md
+   43  git commit -m "Initial commit"
+   44  mkdir git-basic-exercises
+   45  cd git-basic-exercises
+   46  ls -a
+   47  get init
+   48  ls -a
+   49  git status
+   50  git add milkshares.md
+   51  git add README.md
+   52  git add .
+   53  git commit -m "Update README and add milkshares.md"
+   54  git status
+   55  git init
+   56  git add MultiplesCalculator.java
+   57  ls
+   58  ls *.java
+   59  git status
+   60  ls -a
+   61  git check-ignore -v MultiplesCalculator.java
+   62  echo %cd%
+   63  git init
+   64  git add MultiplesCalculator.java
+   65  git add MultiplesCalculator.java
+   66  git commit -m "Add function to caulculate the sum of multiples of 3 and 5"
+   67  git remote add origin<https://github.com/Umuzi-org/Tembelani-Tshaka-219-level-1-programming-katas-java?tab=readme-ov-file>
+   68  git remote add origin <<https://github.com/Umuzi-org/Tembelani-Tshaka-219-level-1-programming-katas-java?tab=readme-ov-file>
+   69  git remote add origin <<https://github.com/Umuzi-org/Tembelani-Tshaka-219-level-1-programming-katas-java?tab=readme-ov-file>
+   70  git branch -M main
+   71  git push -u origin main
+   72  git branch -M main
+   73  git status
+   74  git remote add origin <<https://github.com/Umuzi-org/Tembelani-Tshaka-219-level-1-programming-katas-java?tab=readme-ov-file>
+   75  git remote add origin <<https://github.com/Umuzi-org/Tembelani-Tshaka-219-level-1-programming-katas-java?tab=readme-ov-file>
+   76  git branch -M main
+   77  git push -u origin main
+   78  git branch -M main
+   79  git status
+   80  git remote add origin [200~
+   81  git branch -M main
+   82  git push -u origin main
+   83  [200~
+   84  git remote add origin https://github.com/Umuzi-org/Tembelani-Tshaka-219-level-1-programming-katas-java
+   85  git branch -M main
+   86  git push -u origin main
+   87  git status
+   88  git status
+   89  q
+   90  clear
+   91  [200~git remote add origin https://github.com/Umuzi-org/Tembelani-Tshaka-219-level-1-programming-katas-java
+   92  git branch -M main
+   93  git push -u origin main
+   94  ~git remote add origin https://github.com/Umuzi-org/Tembelani-Tshaka-219-level-1-programming-katas-java
+   95  git branch -M main
+   96  git push -u origin main
+   97  mkdir git-basic-exercises
+   98  cd
+   99  cd git-basic-exercises
+  100  ls-a 
+  101  ls -a
+  102  git init
+  103  ls -a
+  104  git status
+  105  git log
+  106  git add 
+  107  git add README.md
+  108  git status
+  109  git restore -- staged README.md
+  110  git restore --staged README.md
+  111  git status
+  112  ls -a
+  113  git commit -m "initial commit"
+  114  git add README.md 
+  115  git commit -m "initial commit"
+  116  ls -a
+  117  git status
+  118  git log
+  119  clear
+  120  rm -r git-basic-exercises
+  121  git add -u 
+  122  rm -r git-basic-exercises
+  123  git status
+  124  ls -a
+  125  rm -r git-basic-exercises
+  126  git add -u git-basic-exercises
+  127  git add -u 
+  128  git commit -m "delete git-basic-exercises"
+  129  ls 
+  130  ls -a
+  131  git log
+  132  q
+  133  exit
+  134  git-basic-exercises
+  135  mkdir git-basic-exercises
+  136  cd git-basic-exercises
+  137  ls -a
+  138  git init
+  139  git status
+  140  mkdir git-basic-exercises
+  141  cd git-basic-exercises
+  142  ls -a
+  143  git init
+  144  ls -a
+  145  git status
+  146  touch README.md
+  147  ls -a
+  148  git status
+  149  git log
+  150  git add README.md
+  151  git status
+  152  git rm --cached README.md
+  153  git status
+  154  git status
+  155  git add README.md
+  156  git status
+  157  git rm --cached README.md
+  158  git status
+  159  git commit -m "initial commit"
+  160  git status
+  161  git add README.md
+  162  git status
+  163  git commit -m "initial commit"
+  164  git log
+  165  q
+  166  quit
+  167  exit
+  168  nano README.md
+  169  cat README.md
+  170  git status
+  171  ls -a
+  172  git commit -m "second commit"
+  173  git status
+  174  git log
+  175  git add README.md
+  176  git add README.md
+  177  nano README.md
+  178  cat README.md
+  179  git status
+  180  git commit -m "second commit"
+  181  git status
+  182  git init
+  183  cd README.md
+  184  git status
+  185  git add README.md
+  186  git status
+  187  git log
+  188  git status
+  189  git add README.md
+  190  git -f
+  191  git status
+  192  git log
+  193  git status
+  194  git add .
+  195  git commit -m "second commit"
+  196  nano README.md
+  197  cat README.md
+  198  git status
+  199  git add .
+  200  git commit -m "third commit"
+  201  git status
+  202  git log
+  203  git status
+  204  mkdir git-basic-exercises
+  205  cd git-basic-exercises
+  206  ls -a
+  207  git init
+  208  ls -a
+  209  git status
+  210  touch README.md
+  211  ls -a
+  212  git status
+  213  git log
+  214  git add README.md
+  215  git status
+  216  git add git-basic-exercises
+  217  git rm --cached git-basic-exercises
+  218  git status
+  219  git add .
+  220  git log
+  221  git commit -m "second commit"
+  222  git commit -m "third commit"
+  223  git log
+  224  q
+  225  quit
+  226  nano README.md
+  227  cat README.md
+  228  git commit -m "third commit"
+  229  git add .
+  230  git status
+  231  git log
+  232  git status
+  233  ls -a
+  234  git status
+  235  git clean -fd
+  236  git status
+  237  git log
+  238  q
+  239  git checkout
+  240  git checkout c39ed1954bba9d2505a217aa0089778f94d60c7d
+  241  cat README.md
+  242  git checkout master
+  243  git checkout master
+  244  cat README.md
+  245  git checkout
+  246  git checkout "initial commit"
+  247  git checkout 'initial commit'
+  248  git checkout "third commit"
+  249  git checkout 
+  250  git status
+  251  git restore --staged README.md
+  252  git status
+  253  git add README.md
+  254  git status
+  255  git commit -m 
+  256  git commit -m README.md
+  257  git status
+  258  git checkout c39ed19
+  259  git checkout main
+  260  git checkout master
+  261  git status
+  262  git add git-basic-exercises
+  263  git rm --cached git-basic-exercises
+  264  git status
+  265  git checkout master
+  266  git checkout "initial commit"
+  267  git branch
+  268  git checkout -b milkshake-flavours
+  269  git branch 
+  270  git branch
+  271  git branch master
+  272  git checkout -b milkshake-flavours
+  273  git branch
+  274  git status
+  275  git branch
+  276  git branch
+  277  git branch
+  278  git checkout
+  279  git branch
+  280  git checkout -b master
+  281  git branch
+  282  git switch -c master
+  283  git switch -c history
+  284  git checkout -b milkshare-flavours
+  285  git branch -a
+  286  git checkout
+  287  git branch
+  288  git switch maste
+  289  git switch master
+  290  git checkout
+  291  git branch
+  292  git switch milkshake-flavours
+  293  git checkout
+  294  git checkout milkshake-flavours
+  295  nano milkshakes.md
+  296  git status
+  297  git add .
+  298  git status
+  299  git commit -m "added initial flavours"
+  300  git status
+  301  git log
+  302  git checkout master
+  303  git branch master
+  304  git branch
+  305  git checkout master
+  306  git log
+  307  git branch
+  308  git checkout history
+  309  git status
+  310  git checkout history
+  311  git log
+  312  git log
+  313  git branch
+  314  history > history.txt
