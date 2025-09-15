@@ -1,4 +1,7 @@
-Chocolate Vanilla Blueberry
-Creamy Strawberry
+Chocolate 
+Vanilla 
+Blueberry
+Creamy 
+Strawberry
 Almond 
-Cocoa 
+Cocoa butter
