@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 IMI Trainee: JAVA 2025 is the best initiative Capitec Bank has ever implemented... 
+=======
+booya
+>>>>>>> history
