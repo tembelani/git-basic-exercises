@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore system and user files
 *.DAT
 *.LOG*
@@ -49,4 +50,7 @@ iCloudPhotos/
 *.java
 !MultiplesCalculator.java
 
+=======
+ignore-me.db
+>>>>>>> eae5361b4406b0005c039600f34a554b4958c3c1
 /large-directory-that-should-be-local-only
