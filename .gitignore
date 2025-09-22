@@ -49,3 +49,4 @@ iCloudPhotos/
 *.java
 !MultiplesCalculator.java
 
+/large-directory-that-should-be-local-only
